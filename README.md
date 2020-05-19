@@ -9,7 +9,7 @@ Foi desemvolvido uma livravia no Arduino IDE e implemantamos no ArduBlock, um si
 
 
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![ROB2.](C:\Users\asusa\OneDrive\Ambiente de Trabalho\Ardublock\ROB2.jpg)
 
 
 
