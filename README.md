@@ -6,7 +6,7 @@ Foi desemvolvido uma livravia no Arduino IDE e implemantamos no ArduBlock, um si
 
 # Tutoriais
 
-![alt text](http://url/to/img.png)
+
 
 
 
@@ -17,6 +17,7 @@ Foi desemvolvido uma livravia no Arduino IDE e implemantamos no ArduBlock, um si
 
 
 # Autores
-
  
+ - Abel Teixeira   - retrabalho- ![Ab-Tx](https://github.com/Ab-Tx)
+ - Samuel Lourenço - retrabalho- ![SamueLourenc0](https://github.com/SamueLourenc0)
  
