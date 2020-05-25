@@ -9,16 +9,25 @@ Foi desemvolvido uma livravia no Arduino IDE e implemantamos blocos apartir dela
 ![ROBOT](https://user-images.githubusercontent.com/61513539/82364254-f0e14d80-9a06-11ea-9d6f-fb408e07dd22.jpg)
 
 
-# Tutoriais
- Realizamos varios decomentos onde incina todos os passo para contruir e programar o robô
+# Elaboração do Projeto
+**1º Passo do Projeto**
 
+![Montar o robô](https://github.com/SamueLourenc0/Ardublock/tree/master/00%20_GUIA%20DE%20MONTAGEM) de baixo custo seguido os esquemas que estão dividipros por ![imagens.](https://github.com/SamueLourenc0/Ardublock/tree/master/00%20_GUIA%20DE%20MONTAGEM/Guia%20de%20montagem)
 
+**2º Passo do Projeto** 
+ 
+Baixar a livraria  ![RobotOnLine.](https://github.com/SamueLourenc0/Ardublock/tree/master/00%20_GUIA%20DE%20MONTAGEM/Guia%20de%20montagem)
 
+**3º Passo do Projeto**
 
+Ler e seguir os toturias para configurar o arduino:
+ - ![Configura Arduino IDE para o ESP32;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/1.Configura_Arduino_IDE_para_o_ESP32)
 
+ - ![Configurar ArduBlock no Arduino IDE;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/2.Configurar_ArduBlock_no_Arduino)
 
+ - ![Como instalar bibliotecas no Arduino IDE.](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/3.Como%20instalar%20bibliotecas%20no%20Arduino%20IDE%20-%20Tutorial)
 
-
+**4º Passo do Projeto**
 
 
 # Autores
