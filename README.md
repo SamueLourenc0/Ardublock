@@ -30,7 +30,28 @@ Ler e seguir os tutorias para configurar o Arduíno:
 # Tutoriais 
 
 Com o Arduíno IDE e o ArduBlock já instalados prontos para funcionar nós realizamos alguns tutorias para facilitar a aprendizagem ao utilizador.
+
 **Tutoriais do ArduBlock**
+
+Os ![4 nível](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/4.Tuturiais%20para%20o%20ArduBlock) a baixo iramo facilipar e guiar como deve de utilizar cada bloco e como creiara um programa.
+
+- ![Nivel Iniciante;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/4.Tuturiais%20para%20o%20ArduBlock/Tutorial%201%20-%20Nivel%20iniciante)
+
+- ![Nivel Normal;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/4.Tuturiais%20para%20o%20ArduBlock/Tutorial%202%20-%20N%C3%ADvel%20Normal)
+
+- ![Nivel Médio;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/4.Tuturiais%20para%20o%20ArduBlock/Tutorial%203%20-%20N%C3%ADvel%20M%C3%A9dio)
+
+- ![Nivel Avançado;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/4.Tuturiais%20para%20o%20ArduBlock/Tutorial%204%20-%20N%C3%ADvel%20Avan%C3%A7ado)
+
+**Tutoriais do Arduino IDE**
+
+Depois de já ter realizado os tutoriais do ArduBock já tá apto para começar a programa no Arduino IDE onde também elaboramos alguns tutoriais suguerindo que primeiro desse uma vista de olhos nos ![fluxogramas](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/5.Tutoriais%20para%20Arduino%20IDE/Recursos%20usados%20para%20elabora%C3%A7%C3%A3o%20dos%20tutoriais) que monstrao o funcionamenro do robô. 
+
+- ![Tutorial 1 - Movimento;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/5.Tutoriais%20para%20Arduino%20IDE/Tutorial%201%20-%20Movimento)
+
+- ![Tutorial 2 - Sensores;](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/5.Tutoriais%20para%20Arduino%20IDE/Tutorial%202%20-%20Sensores)
+
+- ![Tutorial 3 - Seguir trajeto.](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/5.Tutoriais%20para%20Arduino%20IDE/Tutorial%203%20-%20Seguir%20trajeto)
 
 # Autores
  
