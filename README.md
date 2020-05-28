@@ -53,6 +53,10 @@ Depois de já ter realizado os tutoriais do ArduBock já tá apto para começar 
 
 - ![Tutorial 3 - Seguir trajeto.](https://github.com/SamueLourenc0/Ardublock/tree/master/02_TUTORIALS/5.Tutoriais%20para%20Arduino%20IDE/Tutorial%203%20-%20Seguir%20trajeto)
 
+# Editar o ArduBlock
+
+Se depois tiver interece de como se cria um bloco basta só segir os passo neste repositorio ![Editar_ArduBlock_Eclipse.](https://github.com/SamueLourenc0/Editar_ArduBlock_Eclipse)
+
 # Autores
  
  - Abel Teixeira   - retrabalho- ![Ab-Tx](https://github.com/Ab-Tx)
