@@ -1,5 +1,0 @@
-- PCB's
-- Codigo Fonte
-- software de apoio ao desenvolvimento
-- datasheet's
-- ...

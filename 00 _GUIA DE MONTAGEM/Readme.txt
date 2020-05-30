@@ -1,4 +1,0 @@
-- gestão do projecto
-- relatórios semanais
-- cronograma
-- ...
